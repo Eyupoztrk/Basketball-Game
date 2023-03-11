@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35599037213",
+    "firebase_url": "https://basketballgame-1a179-default-rtdb.firebaseio.com",
+    "project_id": "basketballgame-1a179",
+    "storage_bucket": "basketballgame-1a179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35599037213:android:f6b197d6af63fa3656a7f4",
+        "android_client_info": {
+          "package_name": "com.basketballGame.BasketballGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35599037213-od45lufjfhbmckdfa922pgi2hcbtt9eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basketballGame.BasketballGame",
+            "certificate_hash": "858f0359fe9b29670e6fe35c9ad61860b682308f"
+          }
+        },
+        {
+          "client_id": "35599037213-2q12i0p8laq0jlmp9s56t6ldf1055ip5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDm1_KqmrmvcJRObgal_mhmvyVjhdS1nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35599037213-2q12i0p8laq0jlmp9s56t6ldf1055ip5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
